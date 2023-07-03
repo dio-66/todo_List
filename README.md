@@ -36,4 +36,5 @@ These instructions will help you get the to-do list application up and running o
 ### Acknowledgments
 
 This project was created as a learning exercise.
+
 Inspired by various to-do list applications.
