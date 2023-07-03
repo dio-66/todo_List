@@ -33,6 +33,7 @@ These instructions will help you get the to-do list application up and running o
 3. The application will display a menu with options. Enter the corresponding number to perform the desired action.
 4. Follow the prompts to add tasks, remove tasks, view tasks, and quit the application.
 
-**Acknowledgments**
+###Acknowledgments
+
 This project was created as a learning exercise.
 Inspired by various to-do list applications.
